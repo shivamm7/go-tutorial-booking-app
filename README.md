@@ -1,1 +1,1 @@
-# go-tutorial-booking-app
+# GO Tutorial Booking App
